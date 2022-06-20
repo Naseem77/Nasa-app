@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+
+/* .App-header {
+  background-color:rgba(14, 8, 8, 0.8);
+  height: 40px;
+  padding: 10px;
+  border-bottom: 10px;
+} */
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#main-links{
+  padding: 10px;
+  display: inline-block;
+}

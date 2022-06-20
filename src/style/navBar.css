@@ -1,0 +1,24 @@
+ .NavBar-header{
+ background-color:rgba(14, 8, 8, 0.8);
+  height: 40px;
+  padding: 4px;
+ }
+
+ .header-link{
+  padding-right: 0.5em;
+  padding-bottom: 12px;
+  color: white;
+  text-decoration: none;
+  padding-left: 10px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+}
+
+#user-icon{
+  background-size: cover;
+  position: relative;
+  width: 60px;
+  height: 40px;
+  float: right;
+  margin-right: 20px;
+}
